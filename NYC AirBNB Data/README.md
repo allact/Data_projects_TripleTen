@@ -1,4 +1,3 @@
----
 # Manhattan Airbnb Investment Analysis
 
 ## 📌 Project Summary
@@ -29,6 +28,4 @@ Access the original Airbnb dataset used for this analysis here:
 * `airbnb_analysis_summary.pdf`: Key findings and business recommendations
 * `airbnb_cleaned_data.xlsx`: Cleaned datasets and pivot table calculations
 * `README.md`: This documentation file
-
----
 
