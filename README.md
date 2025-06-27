@@ -11,7 +11,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 | 4 | [SuperStore Sales](https://github.com/allact/Data_projects_TripleTen/tree/main/SuperStore%20Sales) | Used Tableau to create interactive dashboards and conduct exploratory data analysis. Applied data visualization, calculated fields, and join logic to analyze profitability, returns, and advertising opportunities. |
 | 5 | [Returns Analysis](https://github.com/allact/Data_projects_TripleTen/tree/main/Returns%20Analysis%20')| Used Tableau to explore return rates through calculated fields, join logic, and composite visualizations. Built interactive dashboards to analyze patterns across product categories, customer segments, geography, and seasonality, supporting root cause identification and strategic recommendations. |
 | 6 | [Shopify App Analysis](https://github.com/allact/Data_projects_TripleTen/tree/main/Shopify%20App%20ratings%20analysis) | Used Power BI to build interactive dashboards with bar charts, scatterplots, KPIs, and line graphs. Applied DAX functions, data modeling, and calculated columns to analyze app performance, review trends, and developer responsiveness across multiple related tables. |
-| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 7 | [Zomato Business Insignts](https://github.com/allact/Data_projects_TripleTen/tree/main/Zomato%20Business%20insights) | Used data cleaning, visualization, and analysis in Tableau to examine customer behavior, sales trends, and brand performance. Identified key revenue drivers by age, location, and time to inform marketing and retention strategies. |
 <!--
 | 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
