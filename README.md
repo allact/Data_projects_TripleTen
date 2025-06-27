@@ -9,7 +9,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 | 2 | [Zuber Insights](https://github.com/allact/Data_projects_TripleTen/tree/main/Zuber%20Insights) | Used SQL, data visualization, and business analytics skills to investigate passenger behavior and external factors influencing ride volume. Analyzed competitor and environmental data to identify trends and tested hypotheses on how weather conditions impact ride frequency. |
 | 3 | [E-Commerce Marketing Funnels](https://github.com/allact/Data_projects_TripleTen/tree/main/ECommerce%20Marketing%20Funnels) | Used data cleaning, pivot tables, formulas (VLOOKUP, TEXT, DATEDIF), and cohort modeling in Google Sheets to transform raw user event logs into business metrics. |
 | 4 | [SuperStore Sales](https://github.com/allact/Data_projects_TripleTen/tree/main/SuperStore%20Sales) | Used Tableau to create interactive dashboards and conduct exploratory data analysis. Applied data visualization, calculated fields, and join logic to analyze profitability, returns, and advertising opportunities. |
-| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 5 | [Returns Analysis](https://github.com/allact/Data_projects_TripleTen/tree/main/Returns%20Analysis%20')| Used Tableau to explore return rates through calculated fields, join logic, and composite visualizations. Built interactive dashboards to analyze patterns across product categories, customer segments, geography, and seasonality, supporting root cause identification and strategic recommendations. |
 | 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 <!--
