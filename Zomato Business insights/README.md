@@ -25,7 +25,7 @@ Access the full interactive dashboard here:
 
 ## 📂 Files Included
 
-* `Zomato_Sales_Dashboard.twbx`: Tableau workbook file
+* [`Zomato_Sales Presentation:](https://docs.google.com/presentation/d/1EbCAKgpAa4sbT6PQ88gV8wOhZU_Xh5CWoY7ZWnYGkk0/edit?usp=sharing)
 * `README.md`: Project documentation
 
 ---
