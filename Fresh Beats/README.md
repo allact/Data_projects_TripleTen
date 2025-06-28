@@ -87,6 +87,6 @@ This project underscores the strategic value of connecting data insights with bu
 
 **Allen Clare**  
 📧 [1allenclare@gmail.com]  
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/1allenclare/))
+🔗 [LinkedIn](https://www.linkedin.com/in/1allenclare/)
 
 
