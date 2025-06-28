@@ -71,7 +71,7 @@ This project underscores the strategic value of connecting data insights with bu
 
 ## 📄 Report Access
 
-➡️ [Click here to view the full project report (Google Doc Version)]([https://your-google-doc-link.com](https://docs.google.com/document/d/1QeaB44hj2E7ma2SnMM_FDVcTIFIdttazbUjKrsPwjmM/edit?usp=sharing))  
+➡️ [Click here to view the full project report (Google Doc Version)](https://docs.google.com/document/d/1QeaB44hj2E7ma2SnMM_FDVcTIFIdttazbUjKrsPwjmM/edit?usp=sharing) 
 
 ---
 
