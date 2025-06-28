@@ -29,5 +29,3 @@ Access the full interactive dashboard here:
 * `README.md`: Project documentation
 
 ---
-
-Let me know if you'd like this tailored further for job applications, a portfolio site, or GitHub formatting.
