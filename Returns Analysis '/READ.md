@@ -1,72 +1,33 @@
 # 🔁 Project 5: Superstore Returns Analysis
 
-## 📌 Project Summary  
-This Business Intelligence project aimed to uncover root causes behind Superstore’s elevated product return rates. By combining return and order data, I developed a multi-layered Tableau dashboard to analyze return trends across product categories, regions, customer types, and time. These insights provide executives with actionable recommendations to improve retention, reduce losses, and optimize inventory and logistics strategies.
+## 📌 Project Summary
 
----
+This Business Intelligence project focused on identifying patterns and underlying causes of product returns at Superstore. By joining returns and order data, I created a dynamic Tableau dashboard and Story to surface trends by category, geography, customer behavior, and time. These insights offer actionable strategies to reduce return rates, optimize operations, and improve customer satisfaction.
 
-## 🛠️ Tools & Techniques  
-- **Data Visualization:** Tableau (Storypoints, maps, scatterplots, filters)  
-- **Data Wrangling:** Joined Orders and Returns tables via Order ID  
-- **KPIs Created:** Return Rate %, Count of Returns, Avg. Flagged Returns  
-- **Executive Storytelling:** Clear narrative through labeled charts, filters, and insights  
-- **UX-Oriented Dashboard Design:** Interactive visuals for stakeholder engagement  
+## 🛠️ Tools & Skills Used
 
----
+* **Data Visualization (Tableau Public)** – Interactive dashboards with maps, scatterplots, bar charts, and time series
+* **Data Joining** – Merged Returns and Orders datasets using unique order IDs
+* **Calculated Fields** – Created KPIs like Return Rate %, Return Volume, and Developer Responsiveness
+* **UX-Focused Dashboard Design** – Built a multi-slide Tableau Story for executive decision-making
+* **Data Storytelling** – Used annotated visuals to guide analysis and strategic recommendations
 
-## 📊 Key Visuals & Insights  
+## 📈 Key Business Insights
 
-### 1️⃣ Sales vs Returns (by Sub-Category)  
-![Sales vs Returns](./screenshots/1.%20Sales%20vs%20Returns.png)  
-Products like **Binders** and **Paper** show disproportionately high return counts relative to sales volume, signaling quality or expectation gaps.
+* **Category Red Flags**: Subcategories like Tables had high return rates relative to low sales
+* **Customer Trends**: Repeat returners and specific regions (e.g., California, Utah) accounted for the majority of returns
+* **Seasonality Effects**: Returns peaked between August and December, pointing to holiday-driven stress or dissatisfaction
+* **Geographic Hotspots**: Certain states consistently showed higher-than-average return percentages
+* **Technology Category**: Led all product groups in return rate, signaling a need to revisit customer support or expectations
 
----
+## 📊 Dashboard Highlights
 
-### 2️⃣ Average Return Rate by Product Category  
-![Rate by Product](./screenshots/2.%20Rate%20by%20Product.png)  
-**Technology** leads with the highest average return rate across all categories, followed closely by Office Supplies.
+* Return Rate vs. Sales Volume by Product
+* Return Trends by Geography and Time
+* Return Rate by Customer (Excluding One-Time Buyers)
+* Composite Views (Category × Region, Category × Time)
+* Interactive Filters for deep-dive exploration
 
----
+## 🔗 Tableau Public Dashboard
 
-### 3️⃣ Frequent Returners (Top Offenders)  
-![Offenders](./screenshots/3.%20Offenders.png)  
-Certain customers repeatedly returned items, representing opportunity for personalized support or policy reevaluation.
-
----
-
-### 4️⃣ Geographic Return Patterns  
-![Return Geography](./screenshots/4.%20Return%20Geography.png)  
-States like **California**, **New Mexico**, and **Utah** exhibited return rates as high as **56.84%**, far exceeding the average.
-
----
-
-### 5️⃣ Return Trends by Month  
-![Return by Time](./screenshots/5.%20Return%20by%20Time.png)  
-Returns spiked from **August through December**, aligning with high-demand shopping seasons and possible delivery or expectation issues.
-
----
-
-### 6️⃣ Composite View by Category & Time  
-![Composite Chart](./screenshots/6.%20%20Composite%20Chart.png)  
-Overlaying return trends across **Furniture**, **Technology**, and **Office Supplies** revealed shared seasonal behavior and peaks.
-
----
-
-### 7️⃣ State vs Sub-Category Return Matrix  
-![Composite Sub-Category](./screenshots/7.%20Composite%20(Sub-Category).png)  
-Mapped return rates by **sub-category** and **state** to pinpoint region-specific challenges in product lines.
-
----
-
-## 🧠 Executive Dashboard Overview  
-![Dashboard Overview](./screenshots/Superstore%20Return%20Analysis.png)  
-This overview summarizes the full Tableau Story guiding stakeholders through findings and recommendations.
-
----
-
-## 🔗 Live Tableau Dashboard  
-👉 **[View the Interactive Tableau Story Dashboard](https://public.tableau.com/views/Project5AllenC/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
----
-
-## 📂 Repository Structure  
+👉 [View the Interactive Superstore Returns Dashboard](https://public.tableau.com/views/Project5AllenC/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
