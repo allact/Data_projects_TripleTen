@@ -23,7 +23,3 @@ This project simulates a business intelligence engagement for **Zuber**, a new r
 * `zuber_queries.sql`: All SQL queries used during the analysis.
 * `zuber_analysis_summary.pdf`: Key findings and business recommendations.
 * `README.md`: This documentation file.
-
----
-
-Let me know if you'd like to add visualizations or link it to Tableau or another portfolio item.
